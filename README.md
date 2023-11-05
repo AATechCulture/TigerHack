@@ -1,9 +1,8 @@
-# BE Smart Hack Repo Template
+# Tigershack-BE Smart Hack Repo
 
 ## Description 🚨 
-This is a repository template containing all the information that needs to accompany your project.
+This is a repository for Tigershack- Edward Waters University containing all of our deliverables
 
-Feel free to use any languages or frameworks, but the following information must be filled out before hacking ends.
 ___________
 # Aida by American
 
@@ -23,16 +22,16 @@ Additionally, it translates into significant cost and time savings for American 
 ## Tech Overview 💻
 **... what tech was used to bring this project to life?**
 
-Example:
-* FastAPI 
+* supabase
 * JS
 * HTML & CSS
-* Node.JS
-* SuperBase
+* Nodejs ExpressS
+
+
 
 
 ### ✨ Contributors ✨
-**...tell the world who you and your team are 🙂**
+**...meet the team**
 * Divine Ogugua (V6TL970)
 * Faith Ajumobi W5PY776)
 * Peace Amhanesi (W6WY168)
